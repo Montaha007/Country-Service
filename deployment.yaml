@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
       - name: country-service-container
-        image: montaha007/my-country-service:2
+        image: montaha007/my-country-service:9
         ports:
         - containerPort: 8085
